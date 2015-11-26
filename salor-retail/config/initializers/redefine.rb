@@ -57,3 +57,4 @@ module MoneyRails
     end
   end
 end
+
